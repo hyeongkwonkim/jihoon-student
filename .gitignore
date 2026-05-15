@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Student data
+students.csv
+public/students.csv
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
